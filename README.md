@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @divyanshverma
 - 👀 I’m interested in low code platforms
-- 🌱 I’m currently learning machine learning
+- 🌱 I’m currently learning about machine learning
 - 💞️ I’m looking to collaborate on nodejs applications and machine learning projects
 - 📫 How to reach me - dev@obto.co
 
